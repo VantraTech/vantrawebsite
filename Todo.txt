@@ -1,0 +1,174 @@
+Mke the about section insta bio like
+
+
+- review section full
+- avatars and rating in hero section
+- 
+
+
+
+
+
+do the structuring
+do the copywriting
+do  the pictures
+do the remaining colors and glassmorphism
+make the projects
+
+make a darkmode 
+create a section with prices 
+
+
+
+
+
+
+
+
+
+1. eduction solutions (college projects)
+2. ecommerce websites (coustom to shopify and all in between )
+3. portfolios (personal portfolio for all professions )
+4. Branding (creating a color tone name logo and more (question for you gpt does this include 6? can i put it under that))
+5. wedding websites (usially it means the bride groom website but sometimes it also means websites for wedding managing companies)
+6. Business emails and more (should i call this section byond websites) (From custom emails like contact@vantra.tech to branded invoices, WhatsApp setup, digital business cards, and even email signatures)
+7. seo 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <div class="col-lg-8 col-12">
+                            <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
+                                <div class="scrollspy-example-item" id="item-1">
+                                    <h5>Introducing ebook</h5>
+
+                                    <p>This ebook landing page is good to use for any purpose. This layout is based on Bootstrap 5 CSS framework.</p>
+
+                                    <p><strong>What is Content Marketing?</strong> If you are wondering what content marketing is all about, this is the place to start.</p>
+
+                                    <blockquote class="blockquote">Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito</blockquote>
+
+                                    <p>When you need free HTML CSS templates, please visit Templatemo website which provides a variety of templates.</p>
+                                </div>
+
+                                <!-- <div class="scrollspy-example-item" id="item-2">
+                                    <h5>Win back your time</h5>
+
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+                                    <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus elementum, tempor risus vel, condimentum orci.</p>
+
+                                    <p>You are not allowed to redistribute this template ZIP file on any other template collection website. Please contact TemplateMo for more information.</p>
+
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12 mb-3">
+                                            <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid" alt="">
+                                        </div>
+
+                                        <div class="col-lg-6 col-12 mb-3">
+                                            <img src="images/businessman-sitting-by-table-cafe.jpg" class="scrollspy-example-item-image img-fluid" alt="">
+                                        </div>
+                                    </div>
+
+                                    <p>If you need some specific CSS templates, you can Google with keywords such as templatemo gallery, templatemo digital marketing, etc.</p>
+                                </div> -->
+                                <div class="scrollspy-example-item" id="item-2">
+                                    <h3>Beyond Websites</h3>
+                                
+                                    <p>Most businesses stop at a website. We go further — setting up the everyday digital tools that make you look professional, work faster, and build trust.</p>
+                                
+                                    <p>From custom emails  like <a class="highlight-link" rel="nofollow" href="mailto:contact@vantra.tech" target="_blank">contact@vantra.tech</a> to branded invoices, WhatsApp setup, digital business cards, and even email signatures — we handle it all.</p>
+                                
+                                    <p>You focus on your work. We make your presence feel seamless, modern, and client-ready across platforms.</p>
+                                
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12 mb-3">
+                                            <img src="images/Invoice.avif" class="scrollspy-example-item-image img-fluid" alt="Smiling professional woman at desk">
+                                        </div>
+                                
+                                        <div class="col-lg-6 col-12 mb-3">
+                                            <img src="images/businessman-sitting-by-table-cafe.jpg" class="scrollspy-example-item-image img-fluid" alt="Businessman with laptop at café table">
+                                        </div>
+                                    </div>
+                                
+                                    <p>Already online? Great. Let us polish the parts you didn’t even know were missing.</p>
+                                </div>
+                                
+
+
+                                <div class="scrollspy-example-item" id="item-3">
+                                    <h5>Work less, do more</h5>
+
+                                    <p>Credit goes to <a rel="nofollow" href="https://freepik.com" target="_blank">FreePik</a> for images used in this ebook landing page template. You may browse FreePik to download more free images for your website.</p>
+                                    <p>This is a second paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+
+                                    <p>Lorem ipsum dolor sit amet, consive adipisicing elit, sed do eiusmod. tempor incididunt ut labore.</p>
+
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-6 col-12">
+                                            <img src="images/tablet-screen-contents.jpg" class="img-fluid" alt="">
+                                        </div>
+
+                                        <div class="col-lg-6 col-12">
+                                            <p>Modern ebook ever</p>
+
+                                            <p><strong>Lorem ipsum dolor sit amet, consive adipisicing elit, sed do eiusmod. tempor incididunt.</strong></p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="scrollspy-example-item" id="item-4">
+                                    <h5>Delegate</h5>
+
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+                                    <p>Lorem ipsum dolor sit amet, consive adipisicing elit, sed do eiusmod. tempor incididunt ut labore.</p>
+
+                                    <p>You are not allowed to redistribute this template ZIP file on any other template collection website. Please contact TemplateMo for more information.</p>
+
+                                    <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid mb-3" alt="">
+
+                                    <p>You may want to contact us for more information about this template.</p>
+                                </div>
+
+                                <div class="scrollspy-example-item" id="item-5">
+                                    <h5>Habits</h5>
+
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+                                    <p>You are not allowed to redistribute this template ZIP file on any other template collection website. Please contact TemplateMo for more information.</p>
+
+                                    <p><strong>What is Free CSS Templates?</strong> Free CSS Templates are a variety of ready-made web pages designed for different kinds of websites.</p>
+
+                                    <blockquote class="blockquote">Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito</blockquote>
+
+                                    <p>You may browse TemplateMo website for more CSS templates. Thank you for visiting our website.</p>
+                                </div>
+                            </div>
+                        </div>
