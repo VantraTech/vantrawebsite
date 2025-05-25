@@ -1138,7 +1138,33 @@ backdrop-filter: blur( 10.5px );
 }
 
 .contact-link.bigger-text:hover {
-    text-decoration: none; /* Removes underline */
-    color: inherit; /* Keeps the original color */
+    text-decoration: none; 
+    color: inherit; 
 }
+
+
+.reviews-section .custom-block {
+    height: 450px; /* Set a fixed height for the review cards */
+    width: 100%; /* Adjust width as needed */
+    overflow: hidden; /* Hide overflowing content */
+}
+
+.reviews-section .custom-block-info {
+    height: calc(100% - 150px); /* Adjust height for the content inside */
+    overflow-y: auto; /* Add scroll if content exceeds the height */
+}
+
+.reviews-section .custom-block-image-wrap {
+    height: 150px; /* Fixed height for the image section */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reviews-section .custom-block img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: cover; /* Ensure the image fits within the dimensions */
+}
+
 
